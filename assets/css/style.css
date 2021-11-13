@@ -494,3 +494,27 @@ section {
 .section-bg {
   background: #f7f7f7;
 }
+
+.card {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 2px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.625rem;
+}
+
+.rounded-3 {
+  border-radius: 1.25rem !important;
+}
+.h-100 {
+  height: 100% !important;
+}
