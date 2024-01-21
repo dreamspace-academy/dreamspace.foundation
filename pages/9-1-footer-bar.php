@@ -12,6 +12,9 @@
 			<div>
 				</br>				
 				<b>DreamSpace Foundation gUG</br> Hubertusstr. 5, 12163 Berlin</br>HRB 259803 B (Amtsgericht Charlottenburg)</b></br></br>				
+				<b>DreamSpace Foundation gUG is a newly registered (16.01.2024) non-profit entity in Germany that aims to empower underserved communities through education, innovation, and entrepreneurship to achieve sustainable development goals.</b>
+				</br></br>
+				<b>DreamSpace Foundation Guaranteed Limited / DreamSpace Academy has been doing the same since 2018. More info at https://dreamspace.academy</b>
 			</div>
 		</div>
 		
