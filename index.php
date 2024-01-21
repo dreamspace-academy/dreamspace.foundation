@@ -1,1 +1,1 @@
-<?php header('Location: https://dreamspace.academy/'); exit(); ?>
+<?php header('Location: pages/10-0-under-construction.php'); exit(); ?>
